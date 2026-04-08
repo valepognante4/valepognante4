@@ -1,16 +1,22 @@
-## Hi there 👋
+# ¡Hola! Soy Valentina Pognante 👋
+**Estudiante de último año en Desarrollo de Software | Backend Developer Junior**
 
-<!--
-**valepognante4/valepognante4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> Actualmente enfocada en la creación de soluciones robustas y escalables utilizando Java y Spring Boot. Me apasiona transformar lógica compleja en APIs eficientes.
 
-Here are some ideas to get you started:
+### 🚀 Sobre mí
+* 🎓 Cursando el último año de la Tecnicatura en Desarrollo de Software (Universidad IDES).
+* 💻 Recientemente certificada en **Desarrollo de APIs con Spring Boot**.
+* 🛠️ Experiencia técnica en Spring Boot, Hibernate, JPA, Docker y Postman.
+* 📍 Tancacha, Córdoba, Argentina.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tecnologías y Herramientas
+**Java | Spring Boot | Hibernate | JPA | MySQL | Docker | Git | Postman**
+
+---
+
+## 📊 Mis Estadísticas de GitHub
+
+![Métricas de Valentina](https://github.com/valepognante4/valepognante4/blob/main/github-metrics.svg)
+
+---
+[🌐 Mi Portfolio](https://valepognante4.github.io) | [💼 LinkedIn](https://www.linkedin.com/in/maría-valentina-pognante-3ab89630/)
