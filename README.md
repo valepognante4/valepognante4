@@ -7,7 +7,7 @@
 > Enfocada en construir soluciones robustas y escalables con **Java** y **Spring Boot**. 🚀
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/mar%C3%ADa-valentina-pognante-3ab89630/" target="blank"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white" alt="Linkedin" /></a>
+  <a href="https://www.linkedin.com/in/mar%C3%ADa-valentina-pognante-3ab8963a0/" target="blank"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white" alt="Linkedin" /></a>
   <a href="https://valepognante4.github.io" target="blank"><img src="https://img.shields.io/badge/-Mi%20Portfolio-e74c3c?style=flat-square&logo=github&logoColor=white" alt="Portfolio" /></a>
   <a href="mailto:valepognante@gmail.com" target="blank"><img src="https://img.shields.io/badge/-Gmail-c0392b?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
